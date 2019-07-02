@@ -1,0 +1,427 @@
+[
+    {
+        "outputFile": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 62,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 62,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 285,
+                    "endColumn": 56,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 56,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 45,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 71,
+                    "endOffset": 455
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 784,
+                        "endColumn": 71,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 460,
+                    "endColumn": 79,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 79,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 77,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 545,
+                        "endColumn": 77,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 77,
+                    "endOffset": 691
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 77,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 696,
+                    "endColumn": 52,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endLine": 15,
+                    "endColumn": 13,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endLine": 18,
+                        "endColumn": 13,
+                        "endOffset": 983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endColumn": 46,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 46,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 63,
+                    "endOffset": 984
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 63,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 989,
+                    "endColumn": 55,
+                    "endOffset": 1040
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 55,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1045,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1331
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1336,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1491
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/C:\\Users\\zhou7chao\\Desktop\\JS_Bridge_Print_Android_Studio\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/C:\\Users\\zhou7chao\\Desktop\\JS_Bridge_Print_Android_Studio\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/C:\\Users\\zhou7chao\\Desktop\\JS_Bridge_Print_Android_Studio\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/C:\\Users\\zhou7chao\\Desktop\\JS_Bridge_Print_Android_Studio\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 52,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 54,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/C:\\Users\\zhou7chao\\Desktop\\JS_Bridge_Print_Android_Studio\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 54,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 52,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/C:\\Users\\zhou7chao\\Desktop\\JS_Bridge_Print_Android_Studio\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 52,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/C:\\Users\\zhou7chao\\Desktop\\JS_Bridge_Print_Android_Studio\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 776
+                },
+                "from": {
+                    "file": "/Users/marcosmilitao/Downloads/JS_Bridge_Print_Android_Studio_cn/C:\\Users\\zhou7chao\\Desktop\\JS_Bridge_Print_Android_Studio\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

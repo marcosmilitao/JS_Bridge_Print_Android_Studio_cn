@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+	
+    <meta chatset="utf-8" />
+
+    <title>This is a test</title>
+    	<style>
+    		*{
+        		margin: 20px;
+        		padding: 0;
+    		 }
+    		a{
+        		display: block;
+        		width: 220px;
+        		padding: 1em;
+        		margin: 0 auto;
+        		font-size: 1em;
+        		color: #FFF;
+        		background-color: highlight;
+        		text-decoration: none;
+    		}
+    	</style>
+    	
+	</head>
+
+	<body>
+    	<a>Clique para chamar o método nativo do Android para imprimir</a>
+    
+    	<script type="text/javascript">
+   			document.getElementsByTagName('a')[0].addEventListener('click', function(){
+        		<!-- Chame o método local do android -->
+        		var a = "Bem vindo ao sunmi";
+				javascript:lee.funAndroid(a);   
+        		return false;
+    		}, false);
+    	</script>
+    	
+    	
+	</body>
+	
+</html>
